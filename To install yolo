@@ -1,0 +1,6 @@
+
+bash
+pip install torch torchvision torchaudio opencv-python ultralytics
+Download YOLOv5 & Pretrained Weights
+
+
